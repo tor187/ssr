@@ -1,10 +1,13 @@
 // ==UserScript==
 // @name         Crowdin DS helper
 // @namespace    user.crowdin.linechecker.checkbox-top-right-absolute
-// @version      1.0
+// @version      1.1
 // @description  Шрифт Death Stranding, перевірка довжини діалогів
+// @author       Tor187
 // @match        https://*.crowdin.com/editor/dsdc*
 // @grant        none
+// @updateURL    https://www.tampermonkey.net/script_installation.php#url=https://github.com/tor187/ssr/raw/refs/heads/main/crowdin-ds-helper.user.js
+// @downloadURL  https://www.tampermonkey.net/script_installation.php#url=https://github.com/tor187/ssr/raw/refs/heads/main/crowdin-ds-helper.user.js
 // ==/UserScript==
 
 (function () {
