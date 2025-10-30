@@ -1,0 +1,442 @@
+key,source,Translation,context
+6A5AE49346096561264718A08F9A026D,Set,,"Core/AI/CustomNodes/CustomTasks/E_IntOperationBlackBoard.json
+Name: E_IntOperationBlackboard
+Value"
+143671C849283DA5F3FBEEAFA0A79359,SetRandom,,"Core/AI/CustomNodes/CustomTasks/E_IntOperationBlackBoard.json
+Name: E_IntOperationBlackboard
+Value"
+5BEB6273435A7EA67F288B8251D4BD63,Add,,"Core/AI/CustomNodes/CustomTasks/E_IntOperationBlackBoard.json
+Name: E_IntOperationBlackboard
+Value"
+84B4D38D43771BE0AE192E8DC82E1075,Substract,,"Core/AI/CustomNodes/CustomTasks/E_IntOperationBlackBoard.json
+Name: E_IntOperationBlackboard
+Value"
+018300894D98820020AE7EBC7E700522,RSA,,"Core/Economy/LootTables/EGameProgression.json
+Name: EGameProgression
+Value"
+A81D361F456F41A3E4F614B83BE92A95,TRN,,"Core/Economy/LootTables/EGameProgression.json
+Name: EGameProgression
+Value"
+486366A948C33ED84C00B1B439BB3227,MIF,,"Core/Economy/LootTables/EGameProgression.json
+Name: EGameProgression
+Value"
+DE9251F24E14FB17A69544AD83ED9DEC,ASP,,"Core/Economy/LootTables/EGameProgression.json
+Name: EGameProgression
+Value"
+41AD2DE34852E0770167BBBFD95BA456,WRK,,"Core/Economy/LootTables/EGameProgression.json
+Name: EGameProgression
+Value"
+2606B4644C7D0AA56F806F886D745117,ALL,,"Core/Economy/LootTables/EGameProgression.json
+Name: EGameProgression
+Value"
+F04D984244D90A9434DDDD836DA16E97,RSB,,"Core/Economy/LootTables/EGameProgression.json
+Name: EGameProgression
+Value"
+ABAFF0DA4D854FB3612E7AA27359B6EE,Lessons in Containment,,"Core/MapData/LocASPMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocASP/LocASP13_Nav.LocASP13_Nav:PersistentLevel.BP_MapMarker_LocASP13
+DisplayName"
+FF713C2144574784484169A5E3892DC4,Distress Call,,"Core/MapData/LocASPMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocASP/LocASP13_Nav.LocASP13_Nav:PersistentLevel.LocASP10_Optional_DistressCall
+DisplayName"
+B0F75F96401D01B240C023B677078B94,Awaan Meeting Point,,"Core/MapData/LocASPMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocASP/LocASP12_Nav.LocASP12_Nav:PersistentLevel.BP_MapMarker_LocASP12_Awan
+DisplayName"
+73F057FB4EF01FCCF34D7487E23EF69D,Song of the Void,,"Core/MapData/LocASPMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocASP/LocASP12_Nav.LocASP12_Nav:PersistentLevel.LocASP12_ContactAwan_MapMarker
+DisplayName"
+B953FC0C4D12ABF501D01183E17AB0CA,Jump Gates,,"Core/MapData/LocASPMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocASP/LocASP11_Nav.LocASP11_Nav:PersistentLevel.BP_MapMarker_LocASP11
+DisplayName"
+A88AC1094CFD1C317CC522A551CF5D1A,Jump Gates,,"Core/MapData/LocASPMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocASP/LocASP10_Nav.LocASP10_Nav:PersistentLevel.BP_MapMarker_LocASP10
+DisplayName"
+748CD75A40763694928887B502D3AD77,Aryana's Location,,"Core/MapData/LocASPMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocASP/LocASP16_Nav.LocASP16_Nav:PersistentLevel.BP_LocASP16_MapMarker_NimikaVice
+DisplayName"
+F9A7E7B44B914D4683FE2C85789CBD4C,Communication Hub,,"Core/MapData/LocASPMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocASP/LocASP15_Nav.LocASP15_Nav:PersistentLevel.BP_MapMarker_LocASP15
+DisplayName"
+8ABE92FB4980620144EC1CA863781508,Pillory Site,,"Core/MapData/LocASPMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocASP/LocASP14_Nav.LocASP14_Nav:PersistentLevel.BP_MapMarker_LocASP14
+DisplayName"
+F66C841F40248453EECD3EA61A96502C,Tornat Haven,,"Core/MapData/LocASPMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocASP/LocASP06_Nav.LocASP06_Nav:PersistentLevel.BP_MapMarker_LocASP06
+DisplayName"
+5BC3E8C944A1B9FEA89C54AB4DE72FAE,Refugee Quarter,,"Core/MapData/LocASPMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocASP/LocASP06_Nav.LocASP06_Nav:PersistentLevel.BP_MapMarker_LocASP06_BombChase
+DisplayName"
+98777C7D44A7D6ABE411B1804739A931,Tornat Traffic Hub,,"Core/MapData/LocASPMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocASP/LocASP06_Nav.LocASP06_Nav:PersistentLevel.BP_MapMarker_LocASP7_2
+DisplayName"
+3FB77704432AE3D4622CF6AABC932DFE,Hall of Words,,"Core/MapData/LocASPMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocASP/LocASP04_Nav.LocASP04_Nav:PersistentLevel.BP_MapMarker_LocASP04_DefendingLocals
+DisplayName"
+AC171D4A4187A3A38A6850B609209A63,Ginnaq District,,"Core/MapData/LocASPMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocASP/LocASP04_Nav.LocASP04_Nav:PersistentLevel.BP_MapMarker_LocASP04_DefendingLocals3
+DisplayName"
+3DB9C63248949BE4880A538F3F389AE3,Tagialuk Courts,,"Core/MapData/LocASPMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocASP/LocASP04_Nav.LocASP04_Nav:PersistentLevel.BP_MapMarker_LocASP04_DefendingLocals4
+DisplayName"
+8804711D4804C7457DC36D92F8C3A679,Syrys Legion Hideout,,"Core/MapData/LocASPMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocASP/LocASP05_Nav.LocASP05_Nav:PersistentLevel.BP_MapMarker_Favor1_FindHideout_LocASP02
+DisplayName"
+D58A68DF4906D304252F2FBCE29D18C5,Accident Site,,"Core/MapData/LocASPMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocASP/LocASP05_Nav.LocASP05_Nav:PersistentLevel.BP_MapMarker_Favor1_FindSaboteur_LocASP02
+DisplayName"
+BDE4E9B8411CB09AB77F09990848D1AA,A cry for help: Distress Call,,"Core/MapData/LocASPMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocASP/LocASP05_Nav.LocASP05_Nav:PersistentLevel.BP_MapMarker_LocASP05
+DisplayName"
+DDDEC4B542F8C202DAB1E4B877236C0D,Silva Haven,,"Core/MapData/LocASPMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocASP/LocASP01_Nav.LocASP01_Nav:PersistentLevel.BP_MapMarker_LocASP01
+DisplayName"
+A34500474DBA1AD1CC98B2A43FA394E7,Guardians Training Site,,"Core/MapData/LocASPMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocASP/LocASP01_Nav.LocASP01_Nav:PersistentLevel.BP_MapMarker_LocASP01_TrainingTheElite
+DisplayName"
+CD81B685458A2B4DAC6D82B8E834A61C,Prophet's Ears HQ,,"Core/MapData/LocASPMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocASP/LocASP03_Nav.LocASP03_Nav:PersistentLevel.BP_MapMarker_LocASP03
+DisplayName"
+07563BEA4C977D7EB035E1864ACD8885,Tarris Labs,,"Core/MapData/LocLABMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocLAB/LocLAB.LocLAB:PersistentLevel.BP_MapMarker_TheiaForge
+DisplayName"
+99D2D2CD439B18F7BA39FDB00C28830C,Tarris Laboratory,,"Core/MapData/LocLABMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocLAB/LocLAB.LocLAB:PersistentLevel.BP_MapMarker_TheiaLab
+DisplayName"
+64170D7249EE11F5B5924497494E55B1,Tarris Labs Portal,,"Core/MapData/LocLABMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocLAB/LocLAB.LocLAB:PersistentLevel.BP_MapMarker_TheiaLabsPortal
+DisplayName"
+3AAC86334D52EFD63BE2B9B8D81D11F2,Tarris Hangar,,"Core/MapData/LocLABMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocLAB/LocLAB.LocLAB:PersistentLevel.BP_MapMarker_TheiaRace
+DisplayName"
+C994082A406A63A723B941A1E8F5467F,Rite Aspect Site,,"Core/MapData/LocMIFMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocMIF/LocMIF13_Nav.LocMIF13_Nav:PersistentLevel.BP_MapMarker_LocMIF13_PathOfWisdom_RiteOfStarUpgrade
+DisplayName"
+7C3337C74563E0E50129A196133B504D,Path of Virtues Site,,"Core/MapData/LocMIFMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocMIF/LocMIF13_Nav.LocMIF13_Nav:PersistentLevel.BP_MapMarker_LocMIF13_PathOfWisdom_Trial3
+DisplayName"
+A7268645416D46855CF5F9ABC0E94A27,Path of Virtues Site,,"Core/MapData/LocMIFMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocMIF/LocMIF12_Nav.LocMIF12_Nav:PersistentLevel.BP_MapMarker_LocMIF12_PathOfWisdom_Trial1
+DisplayName"
+9B180B5E44944BE59E84729404AE5146,Cerene's Training Grounds,,"Core/MapData/LocMIFMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocMIF/LocMIF11_Nav.LocMIF11_Nav:PersistentLevel.BP_MapMarker_LocMIF11
+DisplayName"
+2C2F9A394D7F693F741D84900D7F0900,Cerene's Training Grounds,,"Core/MapData/LocMIFMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocMIF/LocMIF10_Nav.LocMIF10_Nav:PersistentLevel.BP_MapMarker_LocMIF10
+DisplayName"
+9B5DF9EC483D94B2E785DC96B765C6AA,Ice Station,,"Core/MapData/LocMIFMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocMIF/LocMIF09_Nav.LocMIF09_Nav:PersistentLevel.BP_MapMarker_LocMIF09
+DisplayName"
+3FB519CE4D222566F7CCE28BDE8FE1A7,Path of Virtues Site,,"Core/MapData/LocMIFMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocMIF/LocMIF08_Nav.LocMIF08_Nav:PersistentLevel.BP_MapMarker_LocMIF08_PathOfWisdom_Trial2
+DisplayName"
+28A90E284D6383C0865FD5AC0275B68E,Kangak Haven,,"Core/MapData/LocMIFMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocMIF/LocMIF07_Nav.LocMIF07_Nav:PersistentLevel.BP_MapMarker_LocMIF07
+DisplayName"
+49041C9849EC198BAD1BABA943B655FB,Ancient Wreck Site,,"Core/MapData/LocMIFMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocMIF/LocMIF04_Nav.LocMIF04_Nav:PersistentLevel.BP_MapMarker_LocMIF04
+DisplayName"
+85FFBFA54E5AA872DD99BC9179183BDD,Jump Gate,,"Core/MapData/LocMIFMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocMIF/LocMIF03_Nav.LocMIF03_Nav:PersistentLevel.BP_MapMarker_LocMIF03
+DisplayName"
+3565A198453AC1567A2D608F06081C0B,Path of Virtues Site,,"Core/MapData/LocMIFMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocMIF/LocMIF03_Nav.LocMIF03_Nav:PersistentLevel.BP_MapMarker_LocMIF03_PathOfWisdom_Start
+DisplayName"
+046CE80E4D406CCDAE1E8A98B158E3D9,The Heart,,"Core/MapData/LocMIFMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocMIF/LocMIF02_Nav.LocMIF02_Nav:PersistentLevel.BP_MapMarker_LocMIF02
+DisplayName"
+A9C048054B284CB6D85BFCAEC66F8DEE,Kinuuk Temple,,"Core/MapData/LocMIFMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocMIF/LocMIF01_Nav.LocMIF01_Nav:PersistentLevel.BP_MapMarker_LocMIF01
+DisplayName"
+944AD9714975F1F5A93EBE8111A924EC,Kinuuk Temple,,"Core/MapData/LocMIFMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocMIF/LocMIF01_Nav.LocMIF01_Nav:PersistentLevel.BP_MapMarker_LocMIF01_LessonsOfDreams
+DisplayName"
+8A70989E46C305A429E917B6161970CF,Pilot Training Site,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA33_Nav.LocRSA33_Nav:PersistentLevel.BP_MapMarker_LocRSA33
+DisplayName"
+C3E4597046CB21DEFAE470B6A06F85E4,Qeya Haven,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA28_Nav.LocRSA28_Nav:PersistentLevel.BP_MapMarker_LocRSA28
+DisplayName"
+867B16674F74E4DEDD0D7F9276D8CA60,Frinaar Outpost,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA25_Nav.LocRSA25_Nav:PersistentLevel.BP_MapMarker_LocRSA25
+DisplayName"
+B083186E4C1B45AC66EC619637D19DC8,Civilian Turin: Request,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA23_Nav.LocRSA23_Nav:PersistentLevel.BP_MapMarker_LocRSA23_RaceStart
+DisplayName"
+E2B6CC7D4ACF5731021D498C352BC844,Lightning Field,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA19_Nav.LocRSA19_Nav:PersistentLevel.BP_MapMarker_LocRSA19
+DisplayName"
+F1ED0A44421F02193D70B1A09B0C3F6C,Asteroid Anomaly ,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA18_Nav.LocRSA18_Nav:PersistentLevel.BP_MapMarker_LocRSA18
+DisplayName"
+2AA9FDC6456583CDFDAE769E92E88AE8,Asteroid Anomaly,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA18_Nav.LocRSA18_Nav:PersistentLevel.BP_MapMarker_LocRSA18_FaceTheQueen
+DisplayName"
+0EF3311D4E22DD6CE03CF0AC248CE278,Queen Kimura ,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA18_Nav.LocRSA18_Nav:PersistentLevel.BP_MapMarker_LocRSA18_InvestigateQueen
+DisplayName"
+CCCDD7AF4889576C251C46B24AFB86CB,Adder Clan Hideout,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA16_Nav.LocRSA16_Nav:PersistentLevel.BP_MapMarker_LocRSA16_CleanTerritory
+DisplayName"
+0E629A834445456DC4E9F7B9ED181270,Ershitan Processing,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA14_Nav.LocRSA14_Nav:PersistentLevel.BP_MapMarker_LocRSA14
+DisplayName"
+DC33F2584BB131F89B2AD88866C3D48E,Asirik Outpost,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA13_Nav.LocRSA13_Nav:PersistentLevel.BP_MapMarker_LocRSA13
+DisplayName"
+69DC895041DF8646A1B13584969CEC3F,Nairut Mining,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA12_Nav.LocRSA12_Nav:PersistentLevel.BP_MapMarker_LocRSA12
+DisplayName"
+B3C8DB6946A1BD93B1C7F8A16AC3D838,Tirak Haven,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA11_Nav.LocRSA11_Nav:PersistentLevel.BP_MapMarker_LocRSA11_0
+DisplayName"
+15A64A0B466E808EBB2F61BD7F95EB83,Viper Clan Hideout,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA11_Nav.LocRSA11_Nav:PersistentLevel.BP_MapMarker_LocRSA11_MeetPirateLord
+DisplayName"
+416423934A215DCACA2A47BD59284A0C,Viper Clan Hideout,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA11_Nav.LocRSA11_Nav:PersistentLevel.BP_MapMarker_LocRSA11_SerraHideout
+DisplayName"
+AF62910B4A6C0C5906DA479E7F6F00A6,Asteroid Lair,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA10_Nav.LocRSA10_Nav:PersistentLevel.BP_MapMarker_LocRSA10
+DisplayName"
+2478589F49CCE1F00B64C6B26CF3BBF4,Weapon Shipment,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA09_Nav.LocRSA09_Nav:PersistentLevel.BP_MapMarker_LocRSA09
+DisplayName"
+4B9AAE794676747F934AAD92F0CA119A,Chaska Mining,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA08_Nav.LocRSA08_Nav:PersistentLevel.BP_MapMarker_LocRSA08
+DisplayName"
+D78F8AF34FE29A1AFA22369E13A6D4DA,Kenaris Outpost,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA07_Nav.LocRSA07_Nav:PersistentLevel.BP_MapMarker_LocRSA07
+DisplayName"
+984BDED24E27CF5EF869D9AEF0B1C06B,Cargo Delivery,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA07_Nav.LocRSA07_Nav:PersistentLevel.BP_MapMarker_LocRSA07_HazardErrand
+DisplayName"
+C25387D843DF5A9584560EAC2A069715,Stega Temple,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA03_Nav.LocRSA03_Nav:PersistentLevel.BP_MapMarker_LocRSA03
+DisplayName"
+FD086C9444EBB7E037F19CA32441A3C6,Stega Temple,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA03_Nav.LocRSA03_Nav:PersistentLevel.BP_MapMarker_LocRSA03_TempleEntrance_4
+DisplayName"
+61BA74254A99E7F1DE7C39A6190232AC,Scrap Field,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA05_Nav.LocRSA05_Nav:PersistentLevel.BP_MapMarker_LocRSA05
+DisplayName"
+A63DC5E44432E54411682F9055467098,The Lost Freighter,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA04_Nav.LocRSA04_Nav:PersistentLevel.BP_MapMarker_LocRSA04_FreighterRelocation
+DisplayName"
+CDBE1B4A463153198624B2ACFCB131C9,Stega wisdom: Reach the temple,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA04_Nav.LocRSA04_Nav:PersistentLevel.BP_MapMarker_LocRSA04_GoToTheTomb
+DisplayName"
+EAC663BA4169ACB858F0FAA067B0980D,Jump Gate,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA04_Nav.LocRSA04_Nav:PersistentLevel.BP_MapMarker_LocRSA04_JumpGate
+DisplayName"
+92B05F8944F90D373495CCAF8E23CC51,The Enclave,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA02_Nav.LocRSA02_Nav:PersistentLevel.BP_MapMarker_LocRSA02_1
+DisplayName"
+4FC8A8724CB25807D507308534B8718E,Captain Sharda,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA02_Nav.LocRSA02_Nav:PersistentLevel.BP_MapMarker_LocRSA02_ReturnToGorkaAtEncalve
+DisplayName"
+F0119CAA4E5252F319BC51B709C59C68,Sav's Sin,,"Core/MapData/LocRSAMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSA/LocRSA01_Nav.LocRSA01_Nav:PersistentLevel.BP_MapMarker_LocRSA01_SavsSin
+DisplayName"
+357D89874948C059AB95F1B8A641B6B2,Supplies Location,,"Core/MapData/LocRSBMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSB/LocRSB11_Nav.LocRSB11_Nav:PersistentLevel.BP_MapMarker_LocRSB11_Supplies
+DisplayName"
+6FB0C4A34FE17C1352D6E0B8129AB8DD,Rua's Pathway,,"Core/MapData/LocRSBMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSB/LocRSB10_Nav.LocRSB10_Nav:PersistentLevel.BP_MapMarker_LocRSB10_Contraptions
+DisplayName"
+88B3DB2846768F7533A37E96767588A4,Jiban's Location,,"Core/MapData/LocRSBMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSB/LocRSB09_Nav.LocRSB09_Nav:PersistentLevel.BP_MapMarker_LocRSB09_Jiban
+DisplayName"
+27DF29C0494C47F22C6ED7ABD5D16E7A,Rua's Location,,"Core/MapData/LocRSBMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSB/LocRSB09_Nav.LocRSB09_Nav:PersistentLevel.BP_MapMarker_LocRSB09_Rua
+DisplayName"
+CEB37D114D051248937510A52B0AB193,Refugee Convoy,,"Core/MapData/LocRSBMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSB/LocRSB09_Nav.LocRSB09_Nav:PersistentLevel.BP_MapMarker_LocRSB09_Sharda
+DisplayName"
+6612FF8242FBF86E44064F9DF8B5277B,Selinak Haven,,"Core/MapData/LocRSBMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSB/LocRSB08_Nav.LocRSB08_Nav:PersistentLevel.BP_MapMarker_LocRSB08_ObliteratedStation
+DisplayName"
+58052F1D420931222EFB8892D2362799,Circle Phantom ,,"Core/MapData/LocRSBMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSB/LocRSB06_Nav.LocRSB06_Nav:PersistentLevel.BP_MapMarker_LocRSB06_CultPatrol
+DisplayName"
+F701519A40CFB8BD1F8A9A895B76D27B,Nist's Location,,"Core/MapData/LocRSBMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSB/LocRSB06_Nav.LocRSB06_Nav:PersistentLevel.BP_MapMarker_LocRSB06_Nist
+DisplayName"
+20CC69014434B86BD4E860A649613EC9,Tiq-Ore Location,,"Core/MapData/LocRSBMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSB/LocRSB06_Nav.LocRSB06_Nav:PersistentLevel.BP_MapMarker_LocRSB06_Resources
+DisplayName"
+D51465AB4B75B6111C47B1BE6DCCC353,Scavenger Tulok,,"Core/MapData/LocRSBMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSB/LocRSB06_Nav.LocRSB06_Nav:PersistentLevel.BP_MapMarker_LocRSB06_Tulok
+DisplayName"
+2829508F4F834F1748B8EC8FAAFBA95F,Kytak Outpost,,"Core/MapData/LocRSBMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSB/LocRSB05_Nav.LocRSB05_Nav:PersistentLevel.BP_MapMarker_LocRSB05_CultOutpost
+DisplayName"
+BA9365474BF9851611F81884550BF581,Sinuk Outpost,,"Core/MapData/LocRSBMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSB/LocRSB04_Nav.LocRSB04_Nav:PersistentLevel.BP_MapMarker_LocRSB04_CultSupplylines
+DisplayName"
+250FDDE74B5D2C80C5E8498520C77CC9,Prison Location,,"Core/MapData/LocRSBMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSB/LocRSB04_Nav.LocRSB04_Nav:PersistentLevel.BP_MapMarker_LocRSB04_Prison
+DisplayName"
+26E34F914535FC0CA859089927299081,Jump Gate,,"Core/MapData/LocRSBMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSB/LocRSB03_Nav.LocRSB03_Nav:PersistentLevel.BP_MapMarker_LocRSB03_JumpGate
+DisplayName"
+B44CFB2B4E0A17D506725094D6E8A4F7,Site of Circle Attack,,"Core/MapData/LocRSBMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSB/LocRSB02_Nav.LocRSB02_Nav:PersistentLevel.BP_MapMarker_LocRSB02_DefenderofTheWeak
+DisplayName"
+8D5718AD4B18A13D2CE53E916B9DFCCF,Cobra Clan Hideout,,"Core/MapData/LocRSBMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSB/LocRSB02_Nav.LocRSB02_Nav:PersistentLevel.BP_MapMarker_LocRSB02_SpyGame
+DisplayName"
+7E082C294D56FC2EBF9566A3D3CF53C1,Enter Stega Rim,,"Core/MapData/LocRSBMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSB/LocRSB01_Nav.LocRSB01_Nav:PersistentLevel.BP_MapMarker_LocRSB01_BrokenChimera
+DisplayName"
+FE5FCDBF46AD3CCE796906AF54E996E4,Najara Citadel,,"Core/MapData/LocRSBMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSB/LocRSB01_Nav.LocRSB01_Nav:PersistentLevel.BP_MapMarker_LocRSB01_ChimeraHangar
+DisplayName"
+6F8421B6481F0ED3ED82B480C2A69D04,Jump Gate,,"Core/MapData/LocRSBMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSB/LocRSB01_Nav.LocRSB01_Nav:PersistentLevel.BP_MapMarker_LocRSB01_ChimeraJumpgate
+DisplayName"
+F2C8BCCF413052D83EA4BDA5614DB6DA,Najara Citadel,,"Core/MapData/LocRSBMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocRSB/LocRSB01_Nav.LocRSB01_Nav:PersistentLevel.BP_MapMarker_LocRSB01_SlayingChimera
+DisplayName"
+1F31DC1A4916EEDFEAD23097E713AD42,Inura Installation,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN01_Nav.LocTRN01_Nav:PersistentLevel.BP_MapMarker_LocTRN01_Dish
+DisplayName"
+1BF468474842D0DBE89B1D91CEC2C303,Maka Haven,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN29_Nav.LocTRN29_Nav:PersistentLevel.BP_MapMarker_LocTRN29_Helios
+DisplayName"
+41D933974CAE4CC26EDD2694A25FA249,Trom Shipyard,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN30_Nav.LocTRN30_Nav:PersistentLevel.BP_MapMarker_LocTRN30_Shipyard
+DisplayName"
+177987BE4C02833F7882329AB43F3CED,Jump Gate,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN02_Nav.LocTRN02_Nav:PersistentLevel.BP_MapMarker_LocTRN02_JumpGate
+DisplayName"
+C595D6D14974B954260CF5ABD06CCBA1,Resistance Hideout,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN03_Nav.LocTRN03_Nav:PersistentLevel.BP_MapMarker_LocTRN03_ResistanceHideout
+DisplayName"
+DC2DF6204A0281AC1610EAB107253A84,Jaymir Outpost,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN03_Nav.LocTRN03_Nav:PersistentLevel.BP_MapMarker_LocTRN03_ResistanceOutpost
+DisplayName"
+A2C503764F484BACC600D28F7C0D4B96,Amarok Temple,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN15_Nav.LocTRN15_Nav:PersistentLevel.BP_MapMarker_LocTRN15_Temple
+DisplayName"
+7F972DD74A36D61A3F9DFC883A26D951,Rinak Haven,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN31_Nav.LocTRN31_Nav:PersistentLevel.BP_MapMarker_LocTRN31_Eos
+DisplayName"
+70A891A644DCD00E80D95A8B44FBC391,Tarris Gate,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN32_Nav.LocTRN32_Nav:PersistentLevel.BP_MapMarker_LocTRN32_TheiaGate
+DisplayName"
+4104C0304BBA362A83F1E993AADC89E0,Neju Wrecksite,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN33_Nav.LocTRN33_Nav:PersistentLevel.BP_MapMarker_LocTRN33
+DisplayName"
+584CEC1044E4E5823D21BBB907B98579,Neju Wrecksite,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN33_Nav.LocTRN33_Nav:PersistentLevel.BP_MapMarker_LocTRN34
+DisplayName"
+30A5FA074577D692663723BAEC26CD2D,Anchunal Labs,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN_POI3_Nav.LocTRN_POI3_Nav:PersistentLevel.BP_MapMarker_LocTRN_POI_03
+DisplayName"
+806E135C45BB9CF15BF8C3BA91D12EB3,Sinuri Outpost,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN_POI4_Nav.LocTRN_POI4_Nav:PersistentLevel.BP_MapMarker_LocTRN_POI_04
+DisplayName"
+4503C161443124F9608551AD575F7E0F,Emeq Haven,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN_POI5_Nav.LocTRN_POI5_Nav:PersistentLevel.BP_MapMarker_LocTRN_POI_05
+DisplayName"
+B5C19BEC474F6E2EF8308BB9D00F7A10,Emeq Haven: Distress call,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN_POI5_Nav.LocTRN_POI5_Nav:PersistentLevel.BP_MapMarker_LocTRN_POI_05_PirateAttack
+DisplayName"
+F58997EF4FBEB46E5B901DADD66BE243,Nakor Outpost,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN_POI1B_Nav.LocTRN_POI1B_Nav:PersistentLevel.BP_MapMarker_LocTRN_POI_01SpotB
+DisplayName"
+5C65DC5644F3221655A4FAA71B5DD974,Quluk Outpost,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN_POI1_Nav.LocTRN_POI1_Nav:PersistentLevel.BP_MapMarker_LocTRN_POI_01SpotA
+DisplayName"
+6D2F8953452AA39122C061B18E4E9DB4,Lost Weapon Transport,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN_POI2_Nav.LocTRN_POI2_Nav:PersistentLevel.BP_MapMarker_LocTRN_POI_02A
+DisplayName"
+D97DAA744849AF42D82E6AA00D1D139F,Setrak Haven,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN_POI2_Nav.LocTRN_POI2_Nav:PersistentLevel.BP_MapMarker_LocTRN_POI_02B
+DisplayName"
+3AFA930D49A1922C3B1311AE209EE089,Neju Outpost,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN_POI2_Nav.LocTRN_POI2_Nav:PersistentLevel.BP_MapMarker_LocTRN_POI_02C_Colonel
+DisplayName"
+DFB8C0A84A1E222470C0BAAFEFAF45EA,Alorn Outpost,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN_POI6_Nav.LocTRN_POI6_Nav:PersistentLevel.BP_MapMarker_LocTRN_POI_06
+DisplayName"
+190E09AD49F85F346F331E880306DDA8,Corrupted Ship,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN_POI7_Nav.LocTRN_POI7_Nav:PersistentLevel.BP_MapMarker_LocTRN_POI_07
+DisplayName"
+0B1799944763E60BB89286BD8ADB4671,Tanjii Outpost,,"Core/MapData/LocTRNMapData.json
+Name: /Game/UnleashedPrototype/Maps/LocTRN/LocTRN_POI8_Nav.LocTRN_POI8_Nav:PersistentLevel.BP_MapMarker_LocTRN_POI8
+DisplayName"
+C07D72B64598A74496176AA39498AE21,Weak Static,,"Core/Scan/EScannableHighlightStrength.json
+Name: EScannableHighlightStrength
+Value"
+F2BE8A6F497209892FF208A73752D451,Strong Static,,"Core/Scan/EScannableHighlightStrength.json
+Name: EScannableHighlightStrength
+Value"
+0B13736F42EC54971DC0669C22B57CEB,Weak Animated,,"Core/Scan/EScannableHighlightStrength.json
+Name: EScannableHighlightStrength
+Value"
+B798342147CE5E5CB938958D211B52F1,Strong Animated,,"Core/Scan/EScannableHighlightStrength.json
+Name: EScannableHighlightStrength
+Value"
+687EA7C34DA9B43F3BE303AB8FA79FBB,Swarm,,"Core/Scan/EScannableHighlightStrength.json
+Name: EScannableHighlightStrength
+Value"
+59B7B41945E2996C2B6E1E9122F3C8CB,Start,,"Effects/7thSense/E_SenseTrailPosition.json
+Name: E_SenseTrailPosition
+Value"
+7C0F63E248BBFD3F4A315399CF4F5DBD,Middle,,"Effects/7thSense/E_SenseTrailPosition.json
+Name: E_SenseTrailPosition
+Value"
+7FE25C69473753C20A93C7BDCCE178C9,End,,"Effects/7thSense/E_SenseTrailPosition.json
+Name: E_SenseTrailPosition
+Value"
+698C243346EA972744A9DAAC9BC0E3A6,SingleSegment,,"Effects/7thSense/E_SenseTrailPosition.json
+Name: E_SenseTrailPosition
+Value"
+926C98EB4A823C18DBF68E847A5B34C6,Low,,"Effects/LocalizedEffectZones/EFadingEffectZoneDetailMode.json
+Name: EFadingEffectZoneDetailMode
+Value"
+0F2E5F8548F870A90E08B7AF794CACBD,Medium,,"Effects/LocalizedEffectZones/EFadingEffectZoneDetailMode.json
+Name: EFadingEffectZoneDetailMode
+Value"
+878BDB8E4EE31193E8BA86860AA23E97,High,,"Effects/LocalizedEffectZones/EFadingEffectZoneDetailMode.json
+Name: EFadingEffectZoneDetailMode
+Value"
+87DC2818408C0AA844C9DBA49DECBB9A,Mesh,,"Effects/LocalizedEffectZones/EZonePrimitiveType.json
+Name: EZonePrimitiveType
+Value"
+2A1836C6451D87FCEFC16AB1DAADCC26,Sphere,,"Effects/LocalizedEffectZones/EZonePrimitiveType.json
+Name: EZonePrimitiveType
+Value"
+B838DF3A400396328A7D48B3F6BDD655,Capsule,,"Effects/LocalizedEffectZones/EZonePrimitiveType.json
+Name: EZonePrimitiveType
+Value"
+D580DB4B464308B9635FFA87FDA36CD6,Box,,"Effects/LocalizedEffectZones/EZonePrimitiveType.json
+Name: EZonePrimitiveType
+Value"
+9F439C1B4219AFD6D98182B2E6ACFDB1,Talk to the Civilian Ship,,"Mission/Encounters/BP_EncounterConfig.json
+Name: Default__BP_EncounterConfig_C
+InstructionText"
+3DC8C94F446D762CB0DF3280C623DC00,Press {ActionInput} to talk,,"Mission/Encounters/BP_EncounterConfig.json
+Name: Default__BP_EncounterConfig_C
+InteractionText"
+EDF7CE214E3F94588C09BA872297F2E3,SpawnGroupA,,"Mission/Encounters/EEConfigSpawnGroup.json
+Name: EEConfigSpawnGroup
+Value"
+6882B6324562A70A2AF11CBB399CDEF9,SpawnGroupB,,"Mission/Encounters/EEConfigSpawnGroup.json
+Name: EEConfigSpawnGroup
+Value"
+F6DAFA564C87621F5033639158A50284,SpawnGroupC,,"Mission/Encounters/EEConfigSpawnGroup.json
+Name: EEConfigSpawnGroup
+Value"
+C0F021214820A96E47E5CABF036AB0EE,SpawnGroupD,,"Mission/Encounters/EEConfigSpawnGroup.json
+Name: EEConfigSpawnGroup
+Value"
+87E4377448DD721F0CCB669D71FEAB6B,SpawnGroupE,,"Mission/Encounters/EEConfigSpawnGroup.json
+Name: EEConfigSpawnGroup
+Value"
+6BC2ED874E814D7A603CF8A73DD52C4B,SpawnGroupF,,"Mission/Encounters/EEConfigSpawnGroup.json
+Name: EEConfigSpawnGroup
+Value"
+511ACFD5401F499D150844A525A662A4,The ritual site,,"Mission/LocMIF02_AncientRitualEnd/MT_AncientRitual_End.json
+Name: MTAction_MainObjective_2
+Title"
